@@ -1,6 +1,5 @@
 "Privacy-Focused Notes App with Encryption" project:
 
-**markdown**
 
 # 🛡️ Privacy-Focused Notes App with Encryption
 
